@@ -1,0 +1,14 @@
+{
+  "name": "Garagem — Concessionária",
+  "short_name": "Garagem",
+  "description": "Concessionária com estoque, simulador de financiamento pela Tabela Price, avaliação de troca, test-drive e funil de propostas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0aa295",
+  "icons": [
+    { "src": "/pwa-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/pwa-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/pwa-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
